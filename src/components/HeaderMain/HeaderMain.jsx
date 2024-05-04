@@ -9,6 +9,4 @@ const HeaderMain = () => {
   )
 }
 
-export default HeaderMain
-
-{/* <p className="header-main__description">The best online store for all your gardening needs</p> */}
+export default HeaderMain;
