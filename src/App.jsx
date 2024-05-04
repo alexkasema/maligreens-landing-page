@@ -1,10 +1,11 @@
+import HomeScreen from "./screens/HomeScreen"
 
 function App() {
   
 
   return (
     <>
-      <h1>Hello</h1>
+      <HomeScreen />
     </>
   )
 }
