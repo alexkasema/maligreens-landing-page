@@ -15,3 +15,7 @@
 a {
     text-decoration: none;
 }
+
+a:hover {
+    color: #8BC34A;
+}
