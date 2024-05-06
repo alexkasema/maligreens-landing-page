@@ -18,7 +18,7 @@ const Header = () => {
               <Nav.Link href="#home" className='text-secondary fw-bold'>Home</Nav.Link>
               <Nav.Link href="#about" className='text-secondary fw-bold'>About Us</Nav.Link>
               <Nav.Link href="#contact" className='text-secondary fw-bold'>Contact</Nav.Link>
-              <Nav.Link href={url} className='text-secondary fw-bold text-decoration-none border-0'>
+              <Nav.Link href={url} target="_blank" className='text-secondary fw-bold text-decoration-none border-0'>
                 <Button  size="sm" className="bg_button fw-bold text-decoration-none border-0">Go To MarketPlace</Button>
               </Nav.Link>
             </Nav>
